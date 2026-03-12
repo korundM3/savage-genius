@@ -21,6 +21,20 @@
 
 <body>
 
+  <script>
+  const PASSWORD = "kirei";
+  const KEY = "accessGranted";
+
+  if (localStorage.getItem(KEY) !== "yes") {
+    const input = prompt("パスワードを入力してください");
+    if (input !== PASSWORD) {
+      document.body.innerHTML = "<h1>Access Denied</h1>";
+      throw new Error("Wrong password");
+    }
+    localStorage.setItem(KEY, "yes");
+  }
+</script>
+
   <div class="modal-overlay" id="modalOverlay" onclick="closeSettings()"></div>
   <div class="modal" id="settingsModal">
     <h2>Settings</h2>
