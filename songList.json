@@ -1,72 +1,107 @@
 [
-    {
-        "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
-    },
-    {
-        "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
-    },
-    {
-        "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
-    },
-    {
-        "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
-    },
-    {
-        "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
-    },
-    {
-        "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
-    },
-    {
-        "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
-    },
-    {
-        "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
-    },
-    {
-        "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
-    },
-    {
-        "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
-    }
+  {
+    "id": 1,
+    "anime": "Erementar Gerad - Opening 1",
+    "name": "\"Forever...\" by savage genius",
+    "video": "https://eudist.animemusicquiz.com/x52lwr.webm",
+    "mp3": null
+  },
+  {
+    "id": 2,
+    "anime": "Erementar Gerad - Insert Song",
+    "name": "\"Ameagari\" by savage genius",
+    "video": "https://eudist.animemusicquiz.com/1voppj.webm",
+    "mp3": null
+  },
+  {
+    "id": 3,
+    "anime": "Uta∽Kata - Opening 1",
+    "name": "\"Omoi o Kanadete\" by savage genius",
+    "video": "https://eudist.animemusicquiz.com/x44p3f.webm",
+    "mp3": null
+  },
+  {
+    "id": 4,
+    "anime": "Uta∽Kata - Ending 1",
+    "name": "\"Itsuka Tokeru Namida\" by savage genius",
+    "video": "https://eudist.animemusicquiz.com/8i8ck1.webm",
+    "mp3": null
+  },
+  {
+    "id": 5,
+    "anime": "Uta∽Kata - Opening 1",
+    "name": "\"Omoi o Kanadete\" by savage genius",
+    "video": "https://eudist.animemusicquiz.com/x44p3f.webm",
+    "mp3": null
+  },
+  {
+    "id": 6,
+    "anime": "Simoun - Ending 1",
+    "name": "\"Inori no Uta\" by savage genius",
+    "video": "https://eudist.animemusicquiz.com/cre7z7.webm",
+    "mp3": null
+  },
+  {
+    "id": 7,
+    "anime": "El Cazador de la Bruja - Opening 1",
+    "name": "\"Hikari no Yukue\" by savage genius",
+    "video": "https://eudist.animemusicquiz.com/c4acrp.webm",
+    "mp3": null
+  },
+  {
+    "id": 8,
+    "anime": "Taiho Shichau zo: Full Throttle - Opening 1",
+    "name": "\"Mighty Buddy\" by AA-CHINO",
+    "video": "https://eudist.animemusicquiz.com/bj2i45.webm",
+    "mp3": null
+  },
+  {
+    "id": 9,
+    "anime": "Taiho Shichau zo: Full Throttle - Insert Song",
+    "name": "\"Hayaku Koikoi Wrecker-sha\" by AA-CHINO",
+    "video": "https://eudist.animemusicquiz.com/rqbxjs.webm",
+    "mp3": null
+  },
+  {
+    "id": 10,
+    "anime": "Taiho Shichau zo: Full Throttle - Insert Song",
+    "name": "\"Dare ka Honto no Watashi o Shitte\" by AA-CHINO",
+    "video": "https://eudist.animemusicquiz.com/5sy6aa.webm",
+    "mp3": null
+  },
+  {
+    "id": 11,
+    "anime": "Kiddy Grade: Maelstrom - Ending 1",
+    "name": "\"Mou Nidoto\" by savage genius",
+    "video": "https://eudist.animemusicquiz.com/y0hoos.webm",
+    "mp3": null
+  },
+  {
+    "id": 12,
+    "anime": "Kiddy Grade: Truth Dawn - Ending 1",
+    "name": "\"Anata no You desu.\" by savage genius",
+    "video": "https://eudist.animemusicquiz.com/ynx0co.webm",
+    "mp3": null
+  },
+  {
+    "id": 13,
+    "anime": "Yozakura Quartet - Opening 1",
+    "name": "\"JUST TUNE\" by savage genius",
+    "video": "https://eudist.animemusicquiz.com/t4u9mr.webm",
+    "mp3": null
+  },
+  {
+    "id": 14,
+    "anime": "Pandora Hearts - Ending 1",
+    "name": "\"Maze\" by savage genius feat. Tomoe Ohmi",
+    "video": "https://eudist.animemusicquiz.com/d8t0me.webm",
+    "mp3": null
+  },
+  {
+    "id": 15,
+    "anime": "Pandora Hearts - Ending 2",
+    "name": "\"Watashi o Mitsukete.\" by savage genius",
+    "video": "https://eudist.animemusicquiz.com/xmz0yf.webm",
+    "mp3": null
+  }
 ]
