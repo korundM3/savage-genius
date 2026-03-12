@@ -310,3 +310,24 @@ table th,
 table td {
   text-overflow: ellipsis;
 }
+
+.hidden-song {
+  filter: blur(8px);
+  cursor: pointer;
+}
+
+.music-card {
+  position: relative;
+}
+
+.music-card video,
+.music-card iframe,
+.music-card audio {
+  pointer-events: auto;
+}
+
+.music-card .anime,
+.music-card .song {
+  position: relative;
+  z-index: 10;
+}
