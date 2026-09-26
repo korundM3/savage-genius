@@ -1,5 +1,5 @@
 const config = {
-    localStoragePrefix: "savage genius pr",
-    title: "savage genius pr",
-    description: "savage genius pr."
+    localStoragePrefix: "savage genius",
+    title: "savage genius",
+    description: "savage geniu."
 };
